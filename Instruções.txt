@@ -1,0 +1,10 @@
+Instruções de uso do programa Buscador de CEP
+
+1- Abra o programa "Buscador de CEP.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2ª OBS: Caso não tenha a biblioteca requests intalada, abra o CMD (processador de comandos) e digite
+o seguinte e aperte ENTER:
+pip install requests
+
+2- Execute o arquivo "Buscador de CEP.py" e digite apenas os números do CEP que deseja buscar e aperte ENTER.
